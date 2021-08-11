@@ -1,1 +1,1 @@
-POO
+Projeto criado afim de aplicar conceitos de orientação a objetos com o python 3
